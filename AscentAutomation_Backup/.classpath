@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/poi-3.14.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/New Workspace/AscentAutomation/Additional_JARs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Preeti Sharma/Desktop/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Preeti Sharma/Desktop/testng-6.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Preeti Sharma/Downloads/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44993" started-at="2018-02-23T04:18:38Z" finished-at="2018-02-23T04:19:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44993" started-at="2018-02-23T04:18:38Z" finished-at="2018-02-23T04:19:23Z">
+      <class name="testCases.myPIM.EligibilityCheck">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testCases.myPIM.EligibilityCheck@8e24743]" name="openBrowser" is-config="true" duration-ms="3948" started-at="2018-02-23T09:48:38Z" finished-at="2018-02-23T09:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="ValidUserLogin()[pri:0, instance:testCases.myPIM.EligibilityCheck@8e24743]" name="ValidUserLogin" duration-ms="20920" started-at="2018-02-23T09:48:42Z" finished-at="2018-02-23T09:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidUserLogin -->
+        <test-method status="PASS" signature="healthEligibiltyTest()[pri:0, instance:testCases.myPIM.EligibilityCheck@8e24743]" name="healthEligibiltyTest" duration-ms="20097" started-at="2018-02-23T09:49:03Z" finished-at="2018-02-23T09:49:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- healthEligibiltyTest -->
+      </class> <!-- testCases.myPIM.EligibilityCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

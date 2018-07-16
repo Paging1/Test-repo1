@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <listeners>
+    <listener class-name="utils.ListenerTest"/>
+  </listeners>
+  <test name="MTA_2_3_AddDeleteUserGroup(failed)">
+    <classes>
+      <class name="testCases.myPIM.MTA_2_3_AddDeleteUserGroup">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="addUser"/>
+        </methods>
+      </class> <!-- testCases.myPIM.MTA_2_3_AddDeleteUserGroup -->
+    </classes>
+  </test> <!-- MTA_2_3_AddDeleteUserGroup(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+	<listeners>
+		<listener class-name="utils.ListenerTest"></listener>
+	</listeners>
+
+	<test name="MTA_7_InvalidUserLogin">
+		<classes>
+			<class name="testCases.myPIM.MTA_7_InvalidUserLogin">
+			</class>
+		</classes>
+	</test>
+
+	<test name="MTA_9_ValidLogin">
+		<classes>
+			<class name="testCases.myPIM.MTA_9_ValidLogin">
+			</class>
+		</classes>
+	</test>
+
+</suite>
